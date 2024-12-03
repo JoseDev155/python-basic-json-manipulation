@@ -1,0 +1,33 @@
+{
+    "personas": [
+        {
+            "nombre": "Juan Fernandez",
+            "edad": "25",
+            "profesion": "abogado",
+            "vehiculo": [
+                {
+                    "marca": "Toyota",
+                    "modelo": "Hilux",
+                    "anio": 2018
+                },
+                {
+                    "marca": "Peugot",
+                    "modelo": "206",
+                    "anio": 1985
+                }
+            ]
+        },
+        {
+            "nombre": "Sara Tustra",
+            "edad": "50",
+            "profesion": "ingeniera electromecanica",
+            "vehiculo": [
+                {
+                    "marca": "Ford",
+                    "modelo": "F-150 Raptor",
+                    "anio": 2023
+                }
+            ]
+        }
+    ]
+}
